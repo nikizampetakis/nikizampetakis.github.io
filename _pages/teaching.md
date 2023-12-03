@@ -1,5 +1,5 @@
 ---
-permalink: /teaching/
+permalink: /teaching2/
 title: "Teaching"
 ---
 ## Managerial Economics, TA
