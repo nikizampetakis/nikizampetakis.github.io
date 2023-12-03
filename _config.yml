@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://nikizampetakis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nikizampetakis.github.io"
-teaser                   :  "sp_sign"
+teaser                   :  "sp_sign.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
