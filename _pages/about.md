@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD candidate in the Department of Economics at Sciences Po. My main research interests are Industrial Organization and Antitrust/ Competition Economics.\
- My research agenda involves understanding how firms' cartels interact with their competitors or their buyers in a market environment.
+I am a third-year PhD candidate in the Department of Economics at Sciences Po. I specialize in Industrial Organization and Antitrust/Competition Economics.<br>
+My research examines collusion in both market and procurement settings, with a focus on vertical contracting and auction design. I study how cartels interact with downstream firms and how policy and market design can be used to deter collusive behavior.
 
 You can download my CV [here](http://nikizampetakis.github.io/files/CV.pdf).
